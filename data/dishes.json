@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Борщ",
+        "description": "Традиционный славянский суп с капустой, свеклой и мясом.",
+        "image_url": "https://adygsalt.ru/blog/foto/borsh/3.jpg",
+        "recipe_url": "https://example.com/borsch-recipe",
+        "order_url": "https://example.com/order-borsch",
+        "tags": [
+            "суп",
+            "мясо",
+            "горячее",
+            "русская кухня"
+        ],
+        "diet_restrictions": [
+            "без глютена"
+        ],
+        "mood": [
+            "уютный",
+            "традиционный"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Греческий салат",
+        "description": "Свежий салат с огурцами, помидорами, оливками и сыром фета.",
+        "image_url": "https://podacha-blud.com/uploads/posts/2022-12/1670423703_99-podacha-blud-com-p-sir-dlya-grecheskogo-salata-foto-105.jpg",
+        "recipe_url": "https://example.com/greek-salad-recipe",
+        "order_url": "https://example.com/order-greek-salad",
+        "tags": [
+            "салат",
+            "вегетарианское",
+            "холодное",
+            "греческая кухня"
+        ],
+        "diet_restrictions": [
+            "вегетарианское"
+        ],
+        "mood": [
+            "легкий",
+            "свежий"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Паста Карбонара",
+        "description": "Итальянская паста с соусом из яиц, сыра, гуанчиале и черного перца.",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5ecbe0c67be6c04e8f0ef576/1594115419162-RKYMMO5DU0F954BF9C3U/Pasta.png",
+        "recipe_url": "https://example.com/carbonara-recipe",
+        "order_url": "https://example.com/order-carbonara",
+        "tags": [
+            "паста",
+            "горячее",
+            "итальянская кухня"
+        ],
+        "diet_restrictions": [],
+        "mood": [
+            "сытный",
+            "комфортный"
+        ]
+    }
+]
